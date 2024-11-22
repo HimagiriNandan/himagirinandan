@@ -25,16 +25,8 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "MERN Stack Developer",
     icon: web,
-  },
-  {
-    title: "Frontend Developer",
-    icon: mobile,
-  },
-  {
-    title: "Backend Developer",
-    icon: backend,
   },
 ];
 
