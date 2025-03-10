@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimagiriNandan&label=Profile%20views&color=0e75b6&style=flat" alt="ankush210103" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimagiriNandan&label=Profile%20views&color=0e75b6&style=flat" alt="HimagiriNandan" /> </p>
 
 - 🌱 I’m currently learning *Full Stack Web Development*
 
@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/ankush210103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankush210103" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankush210103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankush210103" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/himagirinanr06f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HimagiriNandan" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Himagiri_nandan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HimagiriNandan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
