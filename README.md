@@ -1,4 +1,4 @@
-![logo](https://github.com/HimagiriNandan/himagirinandan/blob/main/githubphoto.jpeg)
+![logo](https://github.com/HimagiriNandan/himagirinandan/blob/main/githubphoto.jpg)
 <h1 align="center">Hi 👋, I'm Himagiri nandan</h1>
 <h3 align="center">A passionate FullStack Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
