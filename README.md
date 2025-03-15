@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HimagiriNandan&show_icons=true&locale=en" alt="himagirinandan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HimagiriNandan&" alt="himagirinandan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=HimagiriNandan&" alt="himagirinandan" /></p>
 
